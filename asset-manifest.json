@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/OscarRobertRodriguez/hacker-news-react/static/css/main.9abe6570.chunk.css",
-    "main.js": "/OscarRobertRodriguez/hacker-news-react/static/js/main.836a8a37.chunk.js",
-    "main.js.map": "/OscarRobertRodriguez/hacker-news-react/static/js/main.836a8a37.chunk.js.map",
-    "runtime-main.js": "/OscarRobertRodriguez/hacker-news-react/static/js/runtime-main.23a696c6.js",
-    "runtime-main.js.map": "/OscarRobertRodriguez/hacker-news-react/static/js/runtime-main.23a696c6.js.map",
-    "static/js/2.235c962c.chunk.js": "/OscarRobertRodriguez/hacker-news-react/static/js/2.235c962c.chunk.js",
-    "static/js/2.235c962c.chunk.js.map": "/OscarRobertRodriguez/hacker-news-react/static/js/2.235c962c.chunk.js.map",
-    "index.html": "/OscarRobertRodriguez/hacker-news-react/index.html",
-    "precache-manifest.852cec878807141ab28ef23e73688e76.js": "/OscarRobertRodriguez/hacker-news-react/precache-manifest.852cec878807141ab28ef23e73688e76.js",
-    "service-worker.js": "/OscarRobertRodriguez/hacker-news-react/service-worker.js",
-    "static/css/main.9abe6570.chunk.css.map": "/OscarRobertRodriguez/hacker-news-react/static/css/main.9abe6570.chunk.css.map"
+    "main.css": "/hacker-news-react/static/css/main.9abe6570.chunk.css",
+    "main.js": "/hacker-news-react/static/js/main.836a8a37.chunk.js",
+    "main.js.map": "/hacker-news-react/static/js/main.836a8a37.chunk.js.map",
+    "runtime-main.js": "/hacker-news-react/static/js/runtime-main.cfe4a1c0.js",
+    "runtime-main.js.map": "/hacker-news-react/static/js/runtime-main.cfe4a1c0.js.map",
+    "static/js/2.235c962c.chunk.js": "/hacker-news-react/static/js/2.235c962c.chunk.js",
+    "static/js/2.235c962c.chunk.js.map": "/hacker-news-react/static/js/2.235c962c.chunk.js.map",
+    "index.html": "/hacker-news-react/index.html",
+    "precache-manifest.2879235d0466d8e6e9888145e40f86a0.js": "/hacker-news-react/precache-manifest.2879235d0466d8e6e9888145e40f86a0.js",
+    "service-worker.js": "/hacker-news-react/service-worker.js",
+    "static/css/main.9abe6570.chunk.css.map": "/hacker-news-react/static/css/main.9abe6570.chunk.css.map"
   }
 }
